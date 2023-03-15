@@ -35,7 +35,7 @@
                 {
                     birthYear = -1;
                 }
-            } while (birthYear < 1900 || birthYear > DateTime.Now.Year);
+            } while (birthYear < 1900 || birthYear > 2023);
 
             do
             {
